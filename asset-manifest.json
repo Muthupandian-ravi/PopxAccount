@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/PopxAccount/static/css/main.1a7488ce.css",
-    "main.js": "/PopxAccount/static/js/main.f502af77.js",
+    "main.js": "/PopxAccount/static/js/main.388ccd15.js",
     "index.html": "/PopxAccount/index.html",
     "main.1a7488ce.css.map": "/PopxAccount/static/css/main.1a7488ce.css.map",
-    "main.f502af77.js.map": "/PopxAccount/static/js/main.f502af77.js.map"
+    "main.388ccd15.js.map": "/PopxAccount/static/js/main.388ccd15.js.map"
   },
   "entrypoints": [
     "static/css/main.1a7488ce.css",
-    "static/js/main.f502af77.js"
+    "static/js/main.388ccd15.js"
   ]
 }
